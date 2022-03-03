@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "783050494306",
+    "project_id": "visitbodrum-308712",
+    "storage_bucket": "visitbodrum-308712.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:783050494306:android:f971773a9d9369d500dc3b",
+        "android_client_info": {
+          "package_name": "com.visitbodrum.android"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "783050494306-ken345ms867n9s0654fkdtkvqo7n2gqq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDcnj6Ytg-Aa34mGpk4QoP7eZ3Tvuql7jg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "783050494306-ken345ms867n9s0654fkdtkvqo7n2gqq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
